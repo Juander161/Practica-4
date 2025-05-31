@@ -24,3 +24,9 @@ section {
   text-align: center;
 }
 
+footer {
+  background-color: #27ae60;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
